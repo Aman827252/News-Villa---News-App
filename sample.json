@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Scott Bailey",
+            "title": "Cricket Australia: former NSW premier Mike Baird new chair",
+            "description": "Former NSW premier Mike Baird has been appointed as the new chair of Cricket Australia.",
+            "url": "http://www.afr.com/companies/sport/former-nsw-premier-mike-baird-new-ca-chair-20221211-p5c5fw",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.3947%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_229%2C$y_266/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/c717f53e5256141781d1dce8667df1fed7946fa1",
+            "publishedAt": "2022-12-11T08:13:19Z",
+            "content": "Australia also completed mens tours of Pakistan and Sri Lanka in trying circumstances amid security concerns.\r\nHowever, the home season this summer has been more problematic, with CAs handling of War… [+1401 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Brook completes sublime ton as England build lead - radio & text",
+            "description": "Follow live text updates and BBC Test Match Special commentary from day three of the second Test between England and Pakistan at the Multan Cricket Stadium.",
+            "url": "http://www.bbc.co.uk/sport/live/cricket/62865933",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2022-12-11T05:37:26.1093175Z",
+            "content": "An ugly heave and Robinson is bowled. That's 11 in the match for Abrar Ahmed.\r\nThat shot from Robinson confirms what we already knew, England are ready to get on with it now.\r\nHe was down the pitch t… [+65 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
